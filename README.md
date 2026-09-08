@@ -4,19 +4,37 @@
 
 This project is an e-commerce web application built entirely with **vanilla PHP**, without frameworks or Composer packages.
 
-It demonstrates core PHP concepts, object-oriented programming, database interaction, and application architecture built from scratch, with a primary focus on backend development.
+It was developed as a hands-on project to build a complete e-commerce application from scratch and gain a deeper understanding of how PHP applications are structured without relying on a framework.
+
+## What This Project Demonstrates
+
+- Object-oriented PHP development
+- MVC-like application architecture
+- Separation of business logic and data access
+- Manual dependency injection
+- MySQL database interaction using PDO
+- User authentication and session management
+- E-commerce workflows such as cart, checkout and order management
+- Form validation and error handling
+- Administrative functionality
+- Reusable templates and components
 
 ## Features
 
-* Product listing and product details
-* Shopping cart management
-* User registration and authentication
-* Checkout and order management
-* User account and order history
-* Admin area for managing products, users, and orders
-* Form validation and error handling
-* Pagination
-* Session-based authentication
+### Customer
+
+- Product listing and product details
+- Shopping cart management
+- Checkout
+- User account
+- Order history
+
+### Administration
+
+- Product management
+- User management
+- Order management
+
 
 ## Architecture
 
