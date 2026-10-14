@@ -62,4 +62,4 @@ require __DIR__.'/../app/templates/form_errors.php';
     </div>
   </div>
 </div>
-<?php  require_once 'templates/footer.php';?>
+<?php  require_once '../app/templates/footer.php';?>
